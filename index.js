@@ -15,7 +15,7 @@ let fullName = "Abdullah AlKhareji";
 let yearOfBirth = 1993;
 let hobby = "Riding Bicycle";
 let funFact = "I'm 28 years old looks like 18 years old ;p";
-let image = "./profilepic.jpg";
+const image = "./profilepic.jpg";
 
 /**
  * Part 2: String Interpolation
