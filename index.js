@@ -31,7 +31,7 @@ const image = "./profilepic.jpg";
  */
 
 const fullNameString = `My name is ${fullName}`;
-const yearOfBirthString = `I am 2022 - ${yearOfBirth}`;
+const yearOfBirthString = `I am  ${2022 - yearOfBirth}`;
 const hobbyString = `My Hobby is ${hobby}`;
 
 /**
